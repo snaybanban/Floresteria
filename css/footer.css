@@ -1,0 +1,15 @@
+footer{
+    margin-top: 60px;
+    padding: 100px;
+    text-align: center;
+    background: #141414;
+}
+.icon-whatsapp, .icon-facebook, .icon-instagram, .icon-rdio-circled{
+    color: #d1d1d1;
+    font-size: 40px;
+}
+
+.icon-twitter:hover, .icon-facebook:hover, .icon-instagram:hover, .icon-rdio-circled:hover, .icon-whatsapp:hover{
+    color: #9A1663;
+    cursor: pointer;
+}
